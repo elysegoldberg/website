@@ -5,3 +5,5 @@ I think that the tutorial would like me to just copy and paste the text from it,
 This is a sample website form the [*Learn Enough Git to Be Dangerous*](http://learnenough.com/git-tutorial). It's pretty good.
 
 Go check it out.
+
+For more information on Git, see the [official Git documentation](https://git-scm.com/).
